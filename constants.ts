@@ -6,7 +6,7 @@ import { Group, BrainstormIdea, DashboardMetric } from './types';
 
 // 1. EVENT COUNTDOWN CONFIGURATION
 // Format: YYYY-MM-DDTHH:mm:ss
-export const EVENT_START_DATE = "2026-01-15T09:00:00";
+export const EVENT_START_DATE = "2026-01-13T08:00:00";
 export const EVENT_TITLE = "";
 export const EVENT_SUBTITLE = "";
 
