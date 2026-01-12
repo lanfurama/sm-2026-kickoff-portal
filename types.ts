@@ -4,6 +4,7 @@ export interface Group {
   slideUrl: string;
   leader: string;
   memberCount: number;
+  color?: string; // Hex color for QR code and header
 }
 
 export interface DashboardMetric {
