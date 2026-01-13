@@ -47,8 +47,8 @@ const App: React.FC = () => {
       <BackgroundDecor />
 
       {/* Main Content */}
-      <main className="flex-grow relative z-10 px-4 py-12 md:py-20">
-        <div className="max-w-7xl mx-auto flex flex-col items-center mt-4">
+      <main className="flex-grow relative z-10 px-4 py-6 md:py-10">
+        <div className="max-w-7xl mx-auto flex flex-col items-center mt-0">
 
           {/* Titles */}
           <div className="text-center mb-8 md:mb-12 w-full">

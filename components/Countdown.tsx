@@ -143,7 +143,7 @@ export const Countdown: React.FC<CountdownProps> = ({ onReadyChange }) => {
       <div className="flex items-center bg-gradient-to-r from-[#059669]/80 to-[#0891b2]/80 backdrop-blur-md border border-[#10b981]/50 rounded-2xl px-10 py-6 shadow-2xl shadow-emerald-500/30 animate-pulse">
         <Sparkles className="text-yellow-300 mr-4 animate-spin" size={32} />
         <div className="text-white font-bold uppercase tracking-widest text-2xl md:text-4xl">
-          🎉 Event is LIVE! 🎉
+          💡 Let's Brainstorm! 🚀
         </div>
         <Sparkles className="text-yellow-300 ml-4 animate-spin" size={32} />
       </div>
